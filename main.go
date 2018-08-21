@@ -3,6 +3,7 @@ package main
 import (
 	_ "loveHome/routers"
 
+	_ "loveHome/models"
 	"net/http"
 	"strings"
 
